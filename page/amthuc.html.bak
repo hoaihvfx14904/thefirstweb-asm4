@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Du lịch khám phá Quảng Bình</title>
+	<meta name="decripstion" content=" Du lịch Quảng Bình, những món ăn ngon ở Quảng Bình, những địa điểm nổi tiếng ở Quảng Bình"/>
+	<meta name="keywords" content="du lịch quảng bình" />
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital@0;1&family=Shizuru&family=Vujahday+Script&family=Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+	<link href="../css/cssasm4.css" type="text/css" rel="stylesheet">
+	<link href="../css/bootstrap.min.css" rel="stylesheet">
+	<link href="../css/bootstrap-grid.min.css" rel="stylesheet">
+	
+</head>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+body{
+text-align: justify;
+}
+p{
+text-indent: 10px;
+}
+i{
+display: block;
+text-align: center;
+margin-left: auto;
+ margin-right: auto;
+}
+@media (min-width: 992px){
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+}
+
+</style>
+<body>
+<div class="container" id="menubanner">
+  <div class="row" id="wrapmenubanner">
+		<nav id="menu">
+				<span>Travel QB</span>
+				<a href="tips.html">Help</a>
+				<a href="tintuc.html">News</a>
+				<a href="../index.html">Home</a>
+		</nav>
+	</div>
+ </div>		
+<div class="container ">
+	<nav >
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item"><a href="../index.html">Home</a></li>
+			<li class="breadcrumb-item"><a href="/vi/tin-tuc-du-lich">News</a></li>
+			<li class="breadcrumb-item active" aria-current="page"><a>Bài viết</a></li>
+		</ol>
+	</nav>
+			<h1 class="mb-2 title">Ẩm thực là điều không thể bỏ qua khi bạn đếm khám phá một vùng đất mới</h1>
+	<div class="mb-2">
+		<p> 11:43AM - 29/12/2021</p>
+		<hr>
+	</div>
+<h2 >Quảng Bình là một tỉnh thuộc duyên hải thuộc vùng Bắc Trung Bộ, Việt Nam. Có nhiều năm văn hóa lịch sử, có sự giao thoa giữa các vùng miền nên nét ẩm thực cũng đặc biệt, cùng khám phá nhé</h2>	
+ <div class=="container">
+<div class="toc-title">
+<div class="toc_title_inside"><strong>Mục lục</strong></div>
+</div>
+<ol>
+	<li><a href="#1.+banh+loc">Bánh lọc&nbsp;</a>
+	</li>
+	<li><a href="#2.+chao+canh">Cháo canh&nbsp;</a>
+	</li>
+	<li><a href="#3.+chao+hau">Cháo hàu</a>
+	</li>
+	<li><a href="#4.+banh+khoai">Bánh khoái</a>
+	</li>
+</ol>
+</div>
+<p>Quảng Bình luôn thu khách du khách bởi vẻ đẹp mê hoặc của các hệ thống hang động, thiên nhiên mang đậm nét hoang sơ nhưng vô cùng hùng vĩ, những bãi cát trắng trải dài bên bờ biển thơ mộng. Song song với du lịch, ẩm thực mộc mạc mang những nét đặc trưng riêng nơi đây cũng là điểm cực kỳ hấp dẫn đối với các du khách cũng như những tín đồ ăn uống.</p>
+ <img alt="dia diem du lich Quang Binh" src="../css/imageqb/amthuc.jpg" />
+	<i> Ẩm thực Quảng Bình</i>
+
+<h2 id="1.+banh+loc">1. Bánh lọc&nbsp;</h2>
+
+<p>Bánh lọc là món đặc sản ở xứ Huế, nhưng khi đến Quảng Bình được chế biến theo cách khác biệt riêng. Thưởng thức hương vị thơm ngon, nóng hổi dai mềm với phần nhân đậm vị, nhiều tôm, thịt, mộc nhĩ và măng của món bánh này sẽ mang đến cho thực khách hương vị khó quên. Thậm chí, rất nhiều người đã mua món bánh này như một món quà khi trở về</p>
+
+<p>Một số gợi ý quán ngon dành cho bạn:</p>
+<ul>
+	<li>Quán mệ Xuân: Đường Lê Thành Đồng, TP Đồng Hới.</li>
+	<li>Quán Sơn Lý - Đ/c: số 115 Lý Thường Kiệt, TP Đồng Hới</li>
+	<li>Quán dì Thái - Đ/c: 13 Đồng Hải, TP Đồng Hới</li>
+	<li>Quán dì Thủy - Đ/c: 11 Thanh Niên, TP Đồng Hới</li>
+</ul>
+<img alt="dia diem du lich Quang Binh"   src="../css/imageqb/banhloc.jpg" />
+<i> Bánh Lộc</i>
+
+<h2 id="2.+chao+canh">2. Cháo canh&nbsp;</h2>
+<p>Cháo canh là một trong những món ăn quen thuộc mang hương vị quê hương đối với mỗi người dân Quảng Bình. Những nguyên liệu không thể thiếu trong mỗi tô cháo gồm sợi mì/gạo, thịt nạc và cá lóc đặc biệt ăn kèm với ram (nem, chả giò) - tên gọi đậm chất mộc mạc của người dân nơi đây làm. Hương vị ngon ngọt của nước dùng hòa quyện cùng những sợi mỳ và thớ thịt chắc chắn sẽ làm bạn xiêu lòng.</p>
+<p>Ngoài ra, món ăn này còn được biến tấu theo nhiều hình thức khác như có kết hợp với lòng, gan, dồi heo hay với thịt cua. Tất cả đều mang đến những hương vị đậm đà mang bản sắc nơi đây.</p>
+<p>Một số gợi ý quán ngon dành cho bạn:</p>
+<ul>
+	<li>Cháo canh Gia Bảo - Đ/c: 8 Lý Thường Kiệt, TP Đồng Hới</li>
+	<li>Quán cháo canh cua rời: 02 Trần Bang Cẩn, Cạnh cổng trường tiểu học Chu Văn An</li>
+	<li>Quán cháo canh cua rời Đỗ Nhuận, phía sau bến xe Đồng Hới</li>
+	<li>Quán cháo sát cá lóc (cháo canh gạo lứt) - Đ/c: gần ngã ba Hoàng Diệu và Hà Huy Tập.</li>
+</ul>
+<img alt="dia diem du lich Quang Binh" src="../css/imageqb/chaocanh.jpg" />
+<i> Cháo Canh</i>
+<h2 id="3.+chao+hau">3. Cháo hàu</h2>
+<p>Cháo hàu là một trong những đặc sản ở Quảng Bình được mọi người yêu thích. Những con hàu được lấy từ sông Nhật Lệ với vị ngon ngọt, béo và đặc biệt chứa rất nhiều dinh dưỡng. Có dịp đến Quảng Bình, du khách đừng quên thưởng thức món cháo hàu này nhé.</p>
+<p>Một số gợi ý quán ngon dành cho bạn:</p>
+<ul>
+	<li>Quán Chị Ngạnh: Đặc sản Lươn Đồng & Hàu - Đ/c: 18 Hoàng Diệu, TP Đồng Hới, Quảng Bình</li>
+	<li>Quán cháo Hàu O Mai - Đ/c: Ngã 3 Quang Trung, Cô Tấm, thị trấn Quán Hàu, H. Quảng Ninh, Quảng Bình</li>
+	<li>Thùy Dương Quán – Đặc Sản Lươn Đồng & Hàu Sữa - Đ/c: 15 Phan Bội Châu, TP Đồng Hới, Quảng Bình</li>
+	<li>Quán Hoa Súng: Thị trấn Quán Hàu, huyện Quảng Ninh</li>
+</ul>
+<img alt="dia diem du lich Quang Binh" src="../css/imageqb/chaohau.jpg" />
+<i> Cháo Hàu </i>
+
+<h2 id="4.+banh+khoai">4. Bánh khoái</h2>
+<p>Với cái tên nghe rất lạ tai nhưng đây là món ăn mà khi nhắc đến Quảng Bình, các tín đồ yêu thích các bánh chiên sẽ nghĩ ngay tới loại bánh này. Bánh khoái có nhiều nét tương đồng với bánh xèo nhưng hương vị mới làm nên sự khác biệt. Vỏ bên ngoài giòn tan được chế biến khá cầu kỳ, bên trong là nhân bánh gồm thịt nạc băm nhỏ, tôm và giá đỗ. Khi ăn sẽ ăn kèm cùng bánh cuốn, rau dưa các loại và nước lèo - một phần quan trọng của món ăn tạo nên hương vị đậm đà riêng.</p>
+<p>Một số gợi ý quán ngon dành cho bạn:</p>
+<ul>
+	<li>Quán bánh khoái Tứ Quý: 17 Cô Tám, TP Đồng Hới</li>
+	<li>Quán Ly Ly: Số 11A Cô Tám, thành phố Đồng Hới</li>
+</ul>
+<img alt="dia diem du lich Quang Binh" src="../css/imageqb/banhkhoai.jpg" />
+<i> Bánh Khoái</i>
+
+<p>Quảng Bình có rất nhiều danh lam thắng cảnh nổi tiếng, các <u>địa điểm du lịch Quảng Bình</u> mới nổi hấp dẫn để du khách khám phá, trải nghiệm, hi vọng với bài viết chia sẻ loạt địa điểm du lịch Quảng Bình cực hot này, bạn sẽ có được chuyến đi đầy hứng khởi.</p>
+<p><strong>Xem thêm:&nbsp;</strong></p>
+
+<ul>
+	<li role="presentation"><strong><a href="tintuc.html">Khám phá Quảng Bình</a></strong></li>
+	<li role="presentation"><strong><a href="lichsu.html">Lịch sử văn hóa Quảng Bình</a></strong></li>
+	<li role="presentation"><strong><a href="dulich.html">Du lịch miền trung</a></strong></li>
+</ul>
+</div>
+<div class="container" id="footer">
+  <footer class="py-3 my-4">
+    <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+      <li class="nav-item"><a href="../index.html" class="nav-link px-2 text-muted">Home</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Features</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Pricing</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
+      <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">About</a></li>
+    </ul>
+    <p class="text-center text-muted">&copy; 2021 Company, Inc</p>
+  </footer>
+</div>
+</body>
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</html>
